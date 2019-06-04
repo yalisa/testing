@@ -1,4 +1,4 @@
-# my test scipt
+# my test script
 
 plot(cars$speed)
 
